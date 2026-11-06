@@ -1,0 +1,21 @@
+{
+	"response": [
+		{
+			"maintainer": "",
+			"oem": "",
+			"device": "",
+			"filename": "RisingOS-9-261106-2008-GAPPS-COMMUNITY-haydn-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/9.x/GAPPS/haydn/RisingOS-9-261106-2008-GAPPS-COMMUNITY-haydn-ota.zip/download",
+			"timestamp": 1793995645,
+			"md5": "78ff77e61c7c1ddab670f2048d1d0b6c",
+			"sha256": "03f141ab3136ff651c04e36edce25e59840b6a4e8db821a97745c154b97a4df8",
+			"size": 3613514660,
+			"version": "9-elefthería",
+			"buildtype": "STABLE",
+			"forum": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": ""
+		}
+	]
+}
